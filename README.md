@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/fazlerabbi2248/fazlerabbi2248/assets/42741131/09fed57f-7090-43c2-9f1d-e854651ff608)
-">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazlerabbi2248&label=Profile%20views&color=0e75b6&style=flat" alt="fazlerabbi2248" /> </p>
 
@@ -22,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fazlerabbi2248&show_icons=true&locale=en" alt="fazlerabbi2248" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fazlerabbi2248&" alt="fazlerabbi2248" /></p>
-
