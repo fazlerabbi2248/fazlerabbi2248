@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24297652&psig=AOvVaw0KkLCkuBZ19D2-kbCsRQf7&ust=1699988166921000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCGysfTwYIDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/fazlerabbi2248/fazlerabbi2248/assets/42741131/09fed57f-7090-43c2-9f1d-e854651ff608)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazlerabbi2248&label=Profile%20views&color=0e75b6&style=flat" alt="fazlerabbi2248" /> </p>
 
