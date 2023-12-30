@@ -1,4 +1,4 @@
-## ![logo](https://github.com/fazlerabbi2248/fazlerabbi2248/blob/main/Untitled%20design.png)
+
 <h1 align="center">Hi 👋, I'm Fazle Rabbi</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
