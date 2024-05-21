@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazlerabbi2248&label=Profile%20views&color=0e75b6&style=flat" alt="fazlerabbi2248" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **01611098010**
 
